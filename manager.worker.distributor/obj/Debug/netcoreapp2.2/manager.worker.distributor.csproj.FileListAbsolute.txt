@@ -1,0 +1,13 @@
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.distributor\bin\Debug\netcoreapp2.2\manager.worker.distributor.deps.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.distributor\bin\Debug\netcoreapp2.2\manager.worker.distributor.runtimeconfig.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.distributor\bin\Debug\netcoreapp2.2\manager.worker.distributor.runtimeconfig.dev.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.distributor\bin\Debug\netcoreapp2.2\manager.worker.distributor.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.distributor\obj\Debug\netcoreapp2.2\manager.worker.distributor.csproj.CoreCompileInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.distributor\obj\Debug\netcoreapp2.2\manager.worker.distributor.RazorAssemblyInfo.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.distributor\obj\Debug\netcoreapp2.2\manager.worker.distributor.RazorAssemblyInfo.cs
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.distributor\obj\Debug\netcoreapp2.2\manager.worker.distributor.AssemblyInfoInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.distributor\obj\Debug\netcoreapp2.2\manager.worker.distributor.AssemblyInfo.cs
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.distributor\obj\Debug\netcoreapp2.2\manager.worker.distributor.RazorTargetAssemblyInfo.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.distributor\bin\Debug\netcoreapp2.2\manager.worker.distributor.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.distributor\obj\Debug\netcoreapp2.2\manager.worker.distributor.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.distributor\obj\Debug\netcoreapp2.2\manager.worker.distributor.pdb

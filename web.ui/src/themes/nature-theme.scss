@@ -1,0 +1,9 @@
+$darkninja-nature-primary: mat-palette($mat-brown, 700, 300, 900);
+$darkninja-nature-accent: mat-palette($mat-deep-purple, 300);
+$darkninja-nature-warn: mat-palette($mat-red, 600);
+
+$darkninja-nature-theme: mat-light-theme(
+  $darkninja-nature-primary,
+  $darkninja-nature-accent,
+  $darkninja-nature-warn
+);

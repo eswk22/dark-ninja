@@ -1,0 +1,14 @@
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.creator\bin\Debug\netcoreapp2.2\manager.worker.creator.deps.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.creator\bin\Debug\netcoreapp2.2\manager.worker.creator.runtimeconfig.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.creator\bin\Debug\netcoreapp2.2\manager.worker.creator.runtimeconfig.dev.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.creator\bin\Debug\netcoreapp2.2\manager.worker.creator.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.creator\obj\Debug\netcoreapp2.2\manager.worker.creator.csproj.CoreCompileInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.creator\obj\Debug\netcoreapp2.2\manager.worker.creator.RazorAssemblyInfo.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.creator\obj\Debug\netcoreapp2.2\manager.worker.creator.RazorAssemblyInfo.cs
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.creator\obj\Debug\netcoreapp2.2\manager.worker.creator.AssemblyInfoInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.creator\obj\Debug\netcoreapp2.2\manager.worker.creator.AssemblyInfo.cs
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.creator\obj\Debug\netcoreapp2.2\manager.worker.creator.RazorTargetAssemblyInfo.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.creator\bin\Debug\netcoreapp2.2\manager.worker.creator.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.creator\obj\Debug\netcoreapp2.2\manager.worker.creator.csprojAssemblyReference.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.creator\obj\Debug\netcoreapp2.2\manager.worker.creator.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.creator\obj\Debug\netcoreapp2.2\manager.worker.creator.pdb

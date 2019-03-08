@@ -1,0 +1,5 @@
+$darkninja-primary: mat-palette($mat-indigo, 800, 300, 900);
+$darkninja-accent: mat-palette($mat-light-blue);
+$darkninja-warn: mat-palette($mat-pink, 600);
+
+$darkninja-theme: mat-light-theme($darkninja-primary, $darkninja-accent, $darkninja-warn);

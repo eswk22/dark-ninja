@@ -1,0 +1,14 @@
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.web.api\bin\Debug\netcoreapp2.2\manager.web.api.deps.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.web.api\bin\Debug\netcoreapp2.2\manager.web.api.runtimeconfig.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.web.api\bin\Debug\netcoreapp2.2\manager.web.api.runtimeconfig.dev.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.web.api\bin\Debug\netcoreapp2.2\manager.web.api.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.web.api\obj\Debug\netcoreapp2.2\manager.web.api.csproj.CoreCompileInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.web.api\obj\Debug\netcoreapp2.2\manager.web.api.RazorAssemblyInfo.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.web.api\obj\Debug\netcoreapp2.2\manager.web.api.RazorAssemblyInfo.cs
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.web.api\obj\Debug\netcoreapp2.2\manager.web.api.AssemblyInfoInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.web.api\obj\Debug\netcoreapp2.2\manager.web.api.AssemblyInfo.cs
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.web.api\obj\Debug\netcoreapp2.2\manager.web.api.RazorTargetAssemblyInfo.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.web.api\bin\Debug\netcoreapp2.2\manager.web.api.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.web.api\obj\Debug\netcoreapp2.2\manager.web.api.csprojAssemblyReference.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.web.api\obj\Debug\netcoreapp2.2\manager.web.api.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.web.api\obj\Debug\netcoreapp2.2\manager.web.api.pdb

@@ -1,0 +1,140 @@
+<mat-accordion>
+
+    <mat-expansion-panel [expanded]="panelOpenState"  (opened)="panelOpenState = true"
+                         (closed)="panelOpenState = false">
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+            Metrics
+          </mat-panel-title>
+
+        </mat-expansion-panel-header>
+        <div class="mat-elevation-z8">
+            <table mat-table [dataSource]="dataSource">
+
+
+
+              <!-- Name Column -->
+              <ng-container matColumnDef="name">
+                <th mat-header-cell *matHeaderCellDef> Parameter </th>
+                <td mat-cell *matCellDef="let element"> {{element.name}} </td>
+              </ng-container>
+              <ng-container matColumnDef="h_eighteen">
+                <th mat-header-cell *matHeaderCellDef> Current </th>
+                <td mat-cell *matCellDef="let element">
+                 <button mat-mini-fab [ngClass]="element.hour18 < 60 ? 'mat-primary':element.hour18 >= 85 ? 'mat-warn':'mat-accent'">{{element.hour18}}</button>
+
+
+                </td>
+              </ng-container>
+                <ng-container matColumnDef="h_seventeen">
+                    <th mat-header-cell *matHeaderCellDef> 17:00 </th>
+                    <td mat-cell *matCellDef="let element">
+                        <button mat-mini-fab [ngClass]="element.hour17 < 60 ? 'mat-primary':element.hour17 >= 85 ? 'mat-warn':'mat-accent'">{{element.hour17}}</button>
+                       </td>
+                  </ng-container>
+                  <ng-container matColumnDef="h_sixteen">
+                      <th mat-header-cell *matHeaderCellDef> 16:00 </th>
+                      <td mat-cell *matCellDef="let element">
+                          <button mat-mini-fab [ngClass]="element.hour16 < 60 ? 'mat-primary':element.hour16 >= 85 ? 'mat-warn':'mat-accent'">{{element.hour16}}</button>
+                         </td>
+                      </ng-container>
+                    <ng-container matColumnDef="h_fifteen">
+                        <th mat-header-cell *matHeaderCellDef> 15:00 </th>
+                        <td mat-cell *matCellDef="let element">
+                            <button mat-mini-fab [ngClass]="element.hour15 < 60 ? 'mat-primary':element.hour15 >= 85 ? 'mat-warn':'mat-accent'">{{element.hour15}}</button>
+                           </td>
+                          </ng-container>
+                      <ng-container matColumnDef="h_fourteen">
+                          <th mat-header-cell *matHeaderCellDef> 14:00 </th>
+                          <td mat-cell *matCellDef="let element">
+                              <button mat-mini-fab [ngClass]="element.hour14 < 60 ? 'mat-primary':element.hour14 >= 85 ? 'mat-warn':'mat-accent'">{{element.hour14}}</button>
+                             </td>
+                              </ng-container>
+                        <ng-container matColumnDef="h_thirteen">
+                            <th mat-header-cell *matHeaderCellDef> 13:00 </th>
+                            <td mat-cell *matCellDef="let element">
+                                <button mat-mini-fab [ngClass]="element.hour13 < 60 ? 'mat-primary':element.hour13 >= 85 ? 'mat-warn':'mat-accent'">{{element.hour13}}</button>
+                               </td>
+                                  </ng-container>
+                          <ng-container matColumnDef="h_twelve">
+                              <th mat-header-cell *matHeaderCellDef> 12:00 </th>
+                              <td mat-cell *matCellDef="let element">
+                                  <button mat-mini-fab [ngClass]="element.hour12 < 60 ? 'mat-primary':element.hour12 >= 85 ? 'mat-warn':'mat-accent'">{{element.hour12}}</button>
+                                 </td>
+                                      </ng-container>
+                            <ng-container matColumnDef="h_eleven">
+                                <th mat-header-cell *matHeaderCellDef> 11:00 </th>
+                                <td mat-cell *matCellDef="let element">
+                                    <button mat-mini-fab [ngClass]="element.hour11 < 60 ? 'mat-primary':element.hour11 >= 85 ? 'mat-warn':'mat-accent'">{{element.hour11}}</button>
+                                   </td>
+                                          </ng-container>
+                              <ng-container matColumnDef="h_ten">
+                                  <th mat-header-cell *matHeaderCellDef> 10:00 </th>
+                                  <td mat-cell *matCellDef="let element">
+                                      <button mat-mini-fab [ngClass]="element.hour10 < 60 ? 'mat-primary':element.hour10 >= 85 ? 'mat-warn':'mat-accent'">{{element.hour10}}</button>
+                                     </td>
+                                              </ng-container>
+                                <ng-container matColumnDef="h_nine">
+                                    <th mat-header-cell *matHeaderCellDef> 9:00 </th>
+                                    <td mat-cell *matCellDef="let element">
+                                        <button mat-mini-fab [ngClass]="element.hour9 < 60 ? 'mat-primary':element.hour9 >= 85 ? 'mat-warn':'mat-accent'">{{element.hour9}}</button>
+                                       </td>
+                                                  </ng-container>
+                                  <ng-container matColumnDef="h_eight">
+                                      <th mat-header-cell *matHeaderCellDef> 8:00 </th>
+                                      <td mat-cell *matCellDef="let element">
+                                          <button mat-mini-fab [ngClass]="element.hour8 < 60 ? 'mat-primary':element.hour8 >= 85 ? 'mat-warn':'mat-accent'">{{element.hour8}}</button>
+                                         </td>
+                                                      </ng-container>
+
+                                    <ng-container matColumnDef="h_seven">
+                                        <th mat-header-cell *matHeaderCellDef> 7:00 </th>
+                                        <td mat-cell *matCellDef="let element">
+                                            <button mat-mini-fab [ngClass]="element.hour7 < 60 ? 'mat-primary':element.hour7 >= 85 ? 'mat-warn':'mat-accent'">{{element.hour7}}</button>
+                                           </td>
+                                                          </ng-container>
+                                      <ng-container matColumnDef="h_six">
+                                          <th mat-header-cell *matHeaderCellDef> 6:00 </th>
+                                          <td mat-cell *matCellDef="let element">
+                                              <button mat-mini-fab [ngClass]="element.hour6 < 60 ? 'mat-primary':element.hour6 >= 85 ? 'mat-warn':'mat-accent'">{{element.hour6}}</button>
+                                             </td>
+                                                              </ng-container>
+                                        <ng-container matColumnDef="h_five">
+                                            <th mat-header-cell *matHeaderCellDef> 5:00 </th>
+                                            <td mat-cell *matCellDef="let element">
+                                                <button mat-mini-fab [ngClass]="element.hour5 < 60 ? 'mat-primary':element.hour5 >= 85 ? 'mat-warn':'mat-accent'">{{element.hour5}}</button>
+                                               </td>
+                                                                  </ng-container>
+                                          <ng-container matColumnDef="h_four">
+                                            <th mat-header-cell *matHeaderCellDef> 4:00 </th>
+                                            <td mat-cell *matCellDef="let element">
+                                                <button mat-mini-fab [ngClass]="element.hour4 < 60 ? 'mat-primary':element.hour4 >= 85 ? 'mat-warn':'mat-accent'">{{element.hour4}}</button>
+                                               </td>
+                                                                  </ng-container>
+                                          <ng-container matColumnDef="h_three">
+                                            <th mat-header-cell *matHeaderCellDef> 3:00 </th>
+                                            <td mat-cell *matCellDef="let element">
+                                                <button mat-mini-fab [ngClass]="element.hour3 < 60 ? 'mat-primary':element.hour3 >= 85 ? 'mat-warn':'mat-accent'">{{element.hour3}}</button>
+                                               </td>
+                                                                  </ng-container>
+                                          <ng-container matColumnDef="h_two">
+                                            <th mat-header-cell *matHeaderCellDef> 2:00 </th>
+                                            <td mat-cell *matCellDef="let element">
+                                                <button mat-mini-fab [ngClass]="element.hour2 < 60 ? 'mat-primary':element.hour2 >= 85 ? 'mat-warn':'mat-accent'">{{element.hour2}}</button>
+                                               </td>
+                                                                  </ng-container>
+                                          <ng-container matColumnDef="h_one">
+                                            <th mat-header-cell *matHeaderCellDef> 1:00 </th>
+                                            <td mat-cell *matCellDef="let element">
+                                                <button mat-mini-fab [ngClass]="element.hour1 < 60 ? 'mat-primary':element.hour1 >= 85 ? 'mat-warn':'mat-accent'">{{element.hour1}}</button>
+                                               </td>
+                                                                  </ng-container>
+
+              <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+              <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+            </table>
+
+            <mat-paginator [pageSizeOptions]="[5, 10, 20]" showFirstLastButtons></mat-paginator>
+          </div>
+    </mat-expansion-panel>
+  </mat-accordion>

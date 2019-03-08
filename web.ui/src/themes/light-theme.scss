@@ -1,0 +1,9 @@
+$darkninja-light-primary: mat-palette($mat-grey, 200, 500, 300);
+$darkninja-light-accent: mat-palette($mat-brown, 200);
+$darkninja-light-warn: mat-palette($mat-deep-orange, 200);
+
+$darkninja-light-theme: mat-light-theme(
+  $darkninja-light-primary,
+  $darkninja-light-accent,
+  $darkninja-light-warn
+);
