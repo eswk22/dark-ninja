@@ -17,7 +17,10 @@
             <input matInput [(ngModel)]="name" placeholder="Node Name">
           </mat-form-field>
           <mat-form-field>
-            <input matInput [(ngModel)]="parameter" placeholder="Parameter">
+            <mat-select placeholder="Select Node Type">
+              <mat-option value="ECE Traffic">ECE Traffic</mat-option>
+              <mat-option value="ECE Control">ECE Control</mat-option>
+            </mat-select>
           </mat-form-field>
           <button mat-raised-button (click)="openDialog()">Search</button>
         </li>
