@@ -15,12 +15,21 @@ import { AlarminfoComponent } from './alarminfo/alarminfo.component';
 import { MetricsComponent } from './metrics/metrics.component';
 import { ShellComponent } from './shell/shell.component';
 import { ResolutionComponent } from './resolution/resolution.component';
+import { AlarmdetailComponent } from './alarmdetail/alarmdetail.component';
+import { NodedetailsComponent } from './nodedetails/nodedetails.component';
 
 @NgModule({
-  declarations: [AlarminfoComponent, MetricsComponent, ShellComponent, ResolutionComponent],
+  declarations: [
+    AlarminfoComponent,
+    MetricsComponent,
+    ShellComponent,
+    ResolutionComponent,
+    AlarmdetailComponent,
+    NodedetailsComponent
+  ],
   imports: [
     SharedModule,
-  //  StoreModule.forFeature(FEATURE_NAME, reducers),
+    //  StoreModule.forFeature(FEATURE_NAME, reducers),
     TranslateModule.forChild({
       loader: {
         provide: TranslateLoader,
@@ -33,8 +42,7 @@ import { ResolutionComponent } from './resolution/resolution.component';
     PocRoutingModule
   ]
 })
-export class PocModule { }
-
+export class PocModule {}
 
 export function HttpLoaderFactory(http: HttpClient) {
   return new TranslateHttpLoader(
