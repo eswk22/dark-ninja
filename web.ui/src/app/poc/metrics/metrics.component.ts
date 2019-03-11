@@ -64,5 +64,5 @@ const ELEMENT_DATA: PeriodicElement[] = [
   {position: 8, name: 'JVM Heap Utilization', hour1: 14, hour2: 19, hour3: 15, hour4: 91, hour5: 29, hour6: 22, hour7: 19, hour8: 71, hour9: 16, hour10: 15, hour11: 5, hour12: 87, hour13: 8, hour14: 1, hour15: 4, hour16: 12, hour17: 12, hour18: 23},
   {position: 9, name: 'Traffic count', hour1: 34, hour2: 20, hour3: 19, hour4: 30, hour5: 33, hour6: 25, hour7: 38, hour8: 65, hour9: 14, hour10: 87, hour11: 87, hour12: 13, hour13: 16, hour14: 9, hour15: 87, hour16: 12, hour17: 12, hour18: 21},
   {position: 10, name: 'DB Instance availability', hour1: 22, hour2: 87, hour3: 25, hour4: 27, hour5: 47, hour6: 10, hour7: 29, hour8: 7, hour9: 23, hour10: 12, hour11: 1, hour12: 87, hour13: 15, hour14: 87, hour15: 87, hour16: 5, hour17: 1, hour18: 7},
-  {position: 11, name: '# of Open iNodes', hour1: 1, hour2: 13, hour3: 19, hour4: 28, hour5: 35, hour6: 30, hour7: 35, hour8: 40, hour9: 47, hour10: 30, hour11: 19, hour12: 18, hour13: 17, hour14: 10, hour15: 20, hour16: 21, hour17: 20, hour18: 10},
+  {position: 11, name: '# of Open iNodes', hour1: 87, hour2: 85, hour3: 86, hour4: 28, hour5: 35, hour6: 70, hour7: 35, hour8: 60, hour9: 47, hour10: 90, hour11: 19, hour12: 18, hour13: 17, hour14: 10, hour15: 70, hour16: 89, hour17: 90, hour18: 87},
  ];

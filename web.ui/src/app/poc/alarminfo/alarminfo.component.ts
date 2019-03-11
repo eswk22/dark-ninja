@@ -25,7 +25,7 @@ export interface PeriodicElement {
 const ELEMENT_DATA: PeriodicElement[] = [
   {
     position: 1,
-    node: 'Node1',
+    node: 'POLIMSC1',
     ServerSerial: 234623452,
     SpecificProbeCause: 'CPU Utilization High',
     Severity: 'Major',
@@ -35,7 +35,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
   },
   {
     position: 2,
-    node: 'Node2',
+    node: 'POLIMP01',
     ServerSerial: 234623433,
     SpecificProbeCause: 'Memory Utilization High',
     Severity: 'Warning',
@@ -45,7 +45,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
   },
   {
     position: 3,
-    node: 'Node3',
+    node: 'POLIMP02',
     ServerSerial: 897898897,
     SpecificProbeCause: 'ECE latency high',
     Severity: 'Critical',
@@ -55,7 +55,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
   },
   {
     position: 4,
-    node: 'Node4',
+    node: 'POLIMP03',
     ServerSerial: 325343444,
     SpecificProbeCause: 'Memory Utilization High',
     Severity: 'Warning',
@@ -65,7 +65,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
   },
   {
     position: 5,
-    node: 'Node3',
+    node: 'POLIMP02',
     ServerSerial: 890980998,
     SpecificProbeCause: 'CPU Utilization High',
     Severity: 'Major',
@@ -75,7 +75,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
   },
   {
     position: 6,
-    node: 'Node1',
+    node: 'POLIMSC1',
     ServerSerial: 324244234,
     SpecificProbeCause: 'CPU Utilization High',
     Severity: 'Major',
@@ -85,7 +85,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
   },
   {
     position: 7,
-    node: 'Node2',
+    node: 'POLIMP05',
     ServerSerial: 890890898,
     SpecificProbeCause: 'ECE latency high',
     Severity: 'Critical',
@@ -95,7 +95,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
   },
   {
     position: 8,
-    node: 'Node5',
+    node: 'POLIMP02',
     ServerSerial: 123432134,
     SpecificProbeCause: 'Memory Utilization High',
     Severity: 'Major',
@@ -105,7 +105,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
   },
   {
     position: 9,
-    node: 'Node7',
+    node: 'POLIMP04',
     ServerSerial: 780978345,
     SpecificProbeCause: 'CPU Utilization High',
     Severity: 'Warning',
