@@ -322,7 +322,7 @@ export class AlarmdetailComponent implements OnInit {
   ngOnInit() {
     this.dataSource.paginator = this.paginator;
     this.panelOpenState = true;
-    this.name = 'Node1';
+    this.name = 'POLIMSC1';
     this.parameter = '';
   }
 

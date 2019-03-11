@@ -26,7 +26,37 @@ export interface PeriodicElement {
 const ELEMENT_DATA: PeriodicElement[] = [
   {
     position: 1,
-    name: 'DB Connection Count',
+    name: 'Invalid ClientID alarm',
+    Today: 4,
+    f_days: 10,
+    t_days: 4,
+    of_days: 10,
+    to_days: 20,
+    tho_days: 20
+  },
+  {
+    position: 2,
+    name: 'Unexpected API Call in IAM',
+    Today: 10,
+    f_days: 2,
+    t_days: 30,
+    of_days: 10,
+    to_days: 20,
+    tho_days: 20
+  },
+  {
+    position: 2,
+    name: 'ECE call latency',
+    Today: 10,
+    f_days: 2,
+    t_days: 30,
+    of_days: 10,
+    to_days: 20,
+    tho_days: 20
+  },
+  {
+    position: 3,
+    name: 'IAM - DB Connection Count',
     Today: 20,
     f_days: 20,
     t_days: 20,
@@ -35,7 +65,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
     tho_days: 20
   },
   {
-    position: 2,
+    position: 4,
     name: 'Active DB Connections',
     Today: 10,
     f_days: 20,
@@ -45,7 +75,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
     tho_days: 20
   },
   {
-    position: 3,
+    position: 5,
     name: 'Disk space Utilization',
     Today: 6,
     f_days: 20,
@@ -55,7 +85,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
     tho_days: 20
   },
   {
-    position: 4,
+    position: 6,
     name: 'CPU Utilization',
     Today: 9,
     f_days: 20,
@@ -65,7 +95,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
     tho_days: 20
   },
   {
-    position: 5,
+    position: 7,
     name: 'Load Average',
     Today: 10,
     f_days: 20,
@@ -75,7 +105,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
     tho_days: 20
   },
   {
-    position: 6,
+    position: 8,
     name: 'Network Throughput',
     Today: 12,
     f_days: 20,
@@ -85,7 +115,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
     tho_days: 20
   },
   {
-    position: 7,
+    position: 9,
     name: 'Memory Utilization',
     Today: 14,
     f_days: 20,
@@ -95,7 +125,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
     tho_days: 20
   },
   {
-    position: 8,
+    position: 10,
     name: 'JVM Heap Utilization',
     Today: 15,
     f_days: 20,
@@ -105,7 +135,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
     tho_days: 20
   },
   {
-    position: 9,
+    position: 11,
     name: 'Traffic count',
     Today: 18,
     f_days: 20,
@@ -115,7 +145,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
     tho_days: 20
   },
   {
-    position: 10,
+    position: 12,
     name: 'DB Instance availability',
     Today: 20,
     f_days: 20,
@@ -125,7 +155,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
     tho_days: 20
   },
   {
-    position: 11,
+    position: 13,
     name: '# of Open iNodes',
     Today: 20,
     f_days: 20,
@@ -159,12 +189,15 @@ export class NodedetailsComponent implements OnInit {
   paginator: MatPaginator;
 
   name: string;
+  parameter: string;
 
   constructor() {}
 
   ngOnInit() {
     this.dataSource.paginator = this.paginator;
     this.panelOpenState = true;
+    this.name = 'POLIMSC1';
+    this.parameter = '';
   }
 
   openDialog(): void {}

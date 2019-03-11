@@ -4,7 +4,7 @@
                        (closed)="panelOpenState = false">
     <mat-expansion-panel-header>
       <mat-panel-title>
-          Parameter Monthly Breach Report
+          Node Wise Monthly Report
        </mat-panel-title>
 
       </mat-expansion-panel-header>
@@ -14,7 +14,10 @@
       <ol>
         <li class="mat-form-field--inline">
           <mat-form-field>
-            <input matInput [(ngModel)]="name" placeholder="Parameter">
+            <input matInput [(ngModel)]="name" placeholder="Node Name">
+          </mat-form-field>
+          <mat-form-field>
+            <input matInput [(ngModel)]="parameter" placeholder="Parameter">
           </mat-form-field>
           <button mat-raised-button (click)="openDialog()">Search</button>
         </li>
