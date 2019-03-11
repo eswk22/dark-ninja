@@ -9,9 +9,9 @@ import { Component, OnInit, ChangeDetectionStrategy } from '@angular/core';
 export class ResolutionComponent implements OnInit {
 
   parameters: Param[] = [
-    {value: 'param-1', viewValue: 'DB Connection Count'},
-    {value: 'param-4', viewValue: 'Disk space Utilization'},
-    {value: 'param-5', viewValue: 'Network Throughput'}
+    {value: 'param-1', viewValue: 'Disk space Utilization'},
+    {value: 'param-4', viewValue: 'CPU Utilization'},
+    {value: 'param-5', viewValue: 'DB Connection Count'}
   ];
   selected = 'param-2';
   constructor() { }

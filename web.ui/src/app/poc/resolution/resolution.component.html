@@ -16,27 +16,48 @@
           </mat-form-field>
 
           <p>
+
             <mat-list *ngIf="selected=='param-1'">
-              <mat-list-item>
-                1. Check & verify CPU utilization
-              </mat-list-item>
-              <mat-list-item>
-                2. Restart Process-1
-              </mat-list-item>
+                <mat-list-item>
+                    1. Capture TCP Dump and Heap Dump for 5 mins
+                  </mat-list-item>       <mat-list-item>
+                        2. Identify folders having high disk usage
+                      </mat-list-item><mat-list-item>
+                            3. Identify if files are application related, OS related or user related
+                          </mat-list-item>    <mat-list-item>
+                                4. If application related, engage application team
+                              </mat-list-item>       <mat-list-item>
+                                    5. If OS related, check syslog and then if necessary truncate the file
+                                  </mat-list-item>            <mat-list-item>
+                                        6. Verify log rotation policy
+                                      </mat-list-item>              <mat-list-item>
+                                            7. If user related, verify with user to delete.
+                                          </mat-list-item>                     <mat-list-item>
+                                                8. Once confirmed, delete automatically.
+                                              </mat-list-item>
             </mat-list>
             <mat-list  *ngIf="selected=='param-4'">
-                <mat-list-item>
-                  1. Check & verify Memory utilization
-                </mat-list-item>
-                <mat-list-item>
-                  2. Restart Process-2
-                </mat-list-item>
+                <mat-list-item>      1. Run Top command to identify which process  is consuming more resources
+              </mat-list-item>       <mat-list-item> 2. If it is application related, engage application team
+                </mat-list-item>       <mat-list-item>  3. After application team confirms, restart the process that is consuming the resource
+                  </mat-list-item>       <mat-list-item>  4. If after restarting component, it does not resolve issue, restart server.
+                    </mat-list-item>
+
+
               </mat-list>
               <mat-list  *ngIf="selected=='param-5'">
-                  <mat-list-item>
-                    1. Restart Process-3
-                  </mat-list-item>
+                <mat-list-item>1. Capture TCP Dump and Heap Dump for 5 mins
+                  </mat-list-item>       <mat-list-item> 2. Identify which VM is using more connections
+                    </mat-list-item>       <mat-list-item> 3. Notify App team
+                      </mat-list-item>       <mat-list-item>4. After application team confirms, restart the VM
+                        </mat-list-item>
                 </mat-list>
+                <mat-list  *ngIf="selected=='param-6'">
+                    <mat-list-item> 1.	Collect TCP Dump and Heap Dump for 5 mins
+              </mat-list-item>       <mat-list-item>2.	Engage the application team
+              </mat-list-item>
+            </mat-list>
+
           </p>
 
      </mat-expansion-panel>
