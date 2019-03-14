@@ -1,0 +1,12 @@
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Inftsatructure.Repository.TSDB\bin\Debug\netcoreapp2.2\Inftsatructure.Repository.TSDB.deps.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Inftsatructure.Repository.TSDB\bin\Debug\netcoreapp2.2\Inftsatructure.Repository.TSDB.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Inftsatructure.Repository.TSDB\bin\Debug\netcoreapp2.2\Inftsatructure.Repository.TSDB.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Inftsatructure.Repository.TSDB\bin\Debug\netcoreapp2.2\KairosDbClient.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Inftsatructure.Repository.TSDB\bin\Debug\netcoreapp2.2\KairosDbClient.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Inftsatructure.Repository.TSDB\obj\Debug\netcoreapp2.2\Inftsatructure.Repository.TSDB.csprojAssemblyReference.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Inftsatructure.Repository.TSDB\obj\Debug\netcoreapp2.2\Inftsatructure.Repository.TSDB.csproj.CoreCompileInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Inftsatructure.Repository.TSDB\obj\Debug\netcoreapp2.2\Inftsatructure.Repository.TSDB.AssemblyInfoInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Inftsatructure.Repository.TSDB\obj\Debug\netcoreapp2.2\Inftsatructure.Repository.TSDB.AssemblyInfo.cs
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Inftsatructure.Repository.TSDB\obj\Debug\netcoreapp2.2\Inftsatructure.Repository.TSDB.csproj.CopyComplete
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Inftsatructure.Repository.TSDB\obj\Debug\netcoreapp2.2\Inftsatructure.Repository.TSDB.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Inftsatructure.Repository.TSDB\obj\Debug\netcoreapp2.2\Inftsatructure.Repository.TSDB.pdb

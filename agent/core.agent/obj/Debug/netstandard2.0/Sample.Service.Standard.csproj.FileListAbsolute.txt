@@ -1,0 +1,9 @@
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Sample.Service.Standard\bin\Debug\netstandard2.0\Sample.Service.Standard.deps.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Sample.Service.Standard\bin\Debug\netstandard2.0\Sample.Service.Standard.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Sample.Service.Standard\bin\Debug\netstandard2.0\Sample.Service.Standard.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Sample.Service.Standard\obj\Debug\netstandard2.0\Sample.Service.Standard.csprojAssemblyReference.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Sample.Service.Standard\obj\Debug\netstandard2.0\Sample.Service.Standard.csproj.CoreCompileInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Sample.Service.Standard\obj\Debug\netstandard2.0\Sample.Service.Standard.AssemblyInfoInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Sample.Service.Standard\obj\Debug\netstandard2.0\Sample.Service.Standard.AssemblyInfo.cs
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Sample.Service.Standard\obj\Debug\netstandard2.0\Sample.Service.Standard.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Sample.Service.Standard\obj\Debug\netstandard2.0\Sample.Service.Standard.pdb

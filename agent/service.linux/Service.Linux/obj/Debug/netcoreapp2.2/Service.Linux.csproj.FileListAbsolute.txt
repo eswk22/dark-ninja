@@ -1,0 +1,12 @@
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\agent\service.linux\Service.Linux\obj\Debug\netcoreapp2.2\Service.Linux.csproj.CoreCompileInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\agent\service.linux\Service.Linux\obj\Debug\netcoreapp2.2\Service.Linux.AssemblyInfoInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\agent\service.linux\Service.Linux\obj\Debug\netcoreapp2.2\Service.Linux.AssemblyInfo.cs
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\agent\service.linux\Service.Linux\bin\Debug\netcoreapp2.2\Service.Linux.deps.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\agent\service.linux\Service.Linux\bin\Debug\netcoreapp2.2\Service.Linux.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\agent\service.linux\Service.Linux\bin\Debug\netcoreapp2.2\Agent.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\agent\service.linux\Service.Linux\bin\Debug\netcoreapp2.2\Agent.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\agent\service.linux\Service.Linux\obj\Debug\netcoreapp2.2\Service.Linux.csprojAssemblyReference.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\agent\service.linux\Service.Linux\obj\Debug\netcoreapp2.2\Service.Linux.csproj.CopyComplete
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\agent\service.linux\Service.Linux\bin\Debug\netcoreapp2.2\Service.Linux.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\agent\service.linux\Service.Linux\obj\Debug\netcoreapp2.2\Service.Linux.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\agent\service.linux\Service.Linux\obj\Debug\netcoreapp2.2\Service.Linux.pdb

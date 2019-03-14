@@ -2,7 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Infrastructure.Settings;
+using manager.web.api.manager;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Options;
 
 namespace manager.web.api.Controllers
 {
@@ -10,10 +13,17 @@ namespace manager.web.api.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
+        private readonly IJobManager _jobManager;
+        public ValuesController(IOptions<BluePrint> settings,IJobManager jobManager)
+        {
+            _jobManager = jobManager;
+        }
+
         // GET api/values
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
+            _jobManager.SaveJob(new model.JobItem() { Name = "Eswar" });
             return new string[] { "value1", "value2" };
         }
 

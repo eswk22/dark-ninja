@@ -11,3 +11,4 @@ C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Applica
 C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.distributor\bin\Debug\netcoreapp2.2\manager.worker.distributor.pdb
 C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.distributor\obj\Debug\netcoreapp2.2\manager.worker.distributor.dll
 C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.worker.distributor\obj\Debug\netcoreapp2.2\manager.worker.distributor.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.worker.distributor\obj\Debug\netcoreapp2.2\manager.worker.distributor.csprojAssemblyReference.cache

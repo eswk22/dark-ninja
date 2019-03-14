@@ -1,0 +1,9 @@
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\ExecuteScript\bin\Debug\netcoreapp2.2\ExecuteScript.deps.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\ExecuteScript\bin\Debug\netcoreapp2.2\ExecuteScript.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\ExecuteScript\bin\Debug\netcoreapp2.2\ExecuteScript.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\ExecuteScript\obj\Debug\netcoreapp2.2\ExecuteScript.csproj.CoreCompileInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\ExecuteScript\obj\Debug\netcoreapp2.2\ExecuteScript.AssemblyInfoInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\ExecuteScript\obj\Debug\netcoreapp2.2\ExecuteScript.AssemblyInfo.cs
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\ExecuteScript\obj\Debug\netcoreapp2.2\ExecuteScript.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\ExecuteScript\obj\Debug\netcoreapp2.2\ExecuteScript.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\ExecuteScript\obj\Debug\netcoreapp2.2\ExecuteScript.csprojAssemblyReference.cache

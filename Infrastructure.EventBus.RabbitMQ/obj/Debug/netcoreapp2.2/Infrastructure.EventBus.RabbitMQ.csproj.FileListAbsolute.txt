@@ -1,0 +1,12 @@
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.EventBus.RabbitMQ\bin\Debug\netcoreapp2.2\Infrastructure.EventBus.RabbitMQ.deps.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.EventBus.RabbitMQ\bin\Debug\netcoreapp2.2\Infrastructure.EventBus.RabbitMQ.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.EventBus.RabbitMQ\obj\Debug\netcoreapp2.2\Infrastructure.EventBus.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.EventBus.RabbitMQ\obj\Debug\netcoreapp2.2\Infrastructure.EventBus.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.EventBus.RabbitMQ\obj\Debug\netcoreapp2.2\Infrastructure.EventBus.RabbitMQ.AssemblyInfo.cs
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.EventBus.RabbitMQ\obj\Debug\netcoreapp2.2\Infrastructure.EventBus.RabbitMQ.csprojAssemblyReference.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.EventBus.RabbitMQ\bin\Debug\netcoreapp2.2\Infrastructure.EvenBus.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.EventBus.RabbitMQ\bin\Debug\netcoreapp2.2\Infrastructure.EvenBus.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.EventBus.RabbitMQ\obj\Debug\netcoreapp2.2\Infrastructure.EventBus.RabbitMQ.csproj.CopyComplete
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.EventBus.RabbitMQ\bin\Debug\netcoreapp2.2\Infrastructure.EventBus.RabbitMQ.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.EventBus.RabbitMQ\obj\Debug\netcoreapp2.2\Infrastructure.EventBus.RabbitMQ.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.EventBus.RabbitMQ\obj\Debug\netcoreapp2.2\Infrastructure.EventBus.RabbitMQ.pdb

@@ -19,6 +19,23 @@ namespace manager.web.api
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
+               .UseContentRoot(Directory.GetCurrentDirectory())
+               
+                .ConfigureAppConfiguration((builderContext, config) =>
+                {
+                    config.SetBasePath(Directory.GetCurrentDirectory());
+                    config.AddJsonFile("appsettings.json", optional: true, reloadOnChange: true)
+                          .AddJsonFile($"blueprint.{builderContext.HostingEnvironment.EnvironmentName}.json", optional: true, reloadOnChange: true)
+                          .AddJsonFile($"features.{builderContext.HostingEnvironment.EnvironmentName}.json", optional: true, reloadOnChange: true);
+                    //       config.AddEnvironmentVariables();
+                    config.AddCommandLine(args);
+                })
+                .ConfigureLogging((hostingContext, builder) =>
+                {
+                    builder.AddConfiguration(hostingContext.Configuration.GetSection("Logging"));
+                    builder.AddConsole();
+                    builder.AddDebug();
+                })
                 .UseStartup<Startup>();
     }
 }

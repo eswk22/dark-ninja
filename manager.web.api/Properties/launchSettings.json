@@ -11,6 +11,7 @@
   "profiles": {
     "IIS Express": {
       "commandName": "IISExpress",
+      "commandLineArgs": "--environment = \"env\"",
       "launchBrowser": true,
       "launchUrl": "api/values",
       "environmentVariables": {

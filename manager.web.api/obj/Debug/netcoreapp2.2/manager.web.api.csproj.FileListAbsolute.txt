@@ -12,3 +12,15 @@ C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Applica
 C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.web.api\obj\Debug\netcoreapp2.2\manager.web.api.csprojAssemblyReference.cache
 C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.web.api\obj\Debug\netcoreapp2.2\manager.web.api.dll
 C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\manager.web.api\obj\Debug\netcoreapp2.2\manager.web.api.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.web.api\bin\Debug\netcoreapp2.2\Infrastructure.EvenBus.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.web.api\bin\Debug\netcoreapp2.2\Infrastructure.EvenBus.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.web.api\obj\Debug\netcoreapp2.2\manager.web.api.csproj.CopyComplete
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.web.api\bin\Debug\netcoreapp2.2\Infrastructure.EventBus.RabbitMQ.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.web.api\bin\Debug\netcoreapp2.2\Infrastructure.Settings.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.web.api\bin\Debug\netcoreapp2.2\Infrastructure.EventBus.RabbitMQ.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.web.api\bin\Debug\netcoreapp2.2\Infrastructure.Settings.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.web.api\bin\Debug\netcoreapp2.2\features.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.web.api\bin\Debug\netcoreapp2.2\Infrastructure.Repository.Cassandra.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.web.api\bin\Debug\netcoreapp2.2\Infrastructure.Repository.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.web.api\bin\Debug\netcoreapp2.2\Infrastructure.Repository.Cassandra.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.web.api\bin\Debug\netcoreapp2.2\Infrastructure.Repository.pdb

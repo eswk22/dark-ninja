@@ -1,0 +1,12 @@
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.Repository.Cassandra\bin\Debug\netcoreapp2.2\Infrastructure.Repository.Cassandra.deps.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.Repository.Cassandra\bin\Debug\netcoreapp2.2\Infrastructure.Repository.Cassandra.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.Repository.Cassandra\obj\Debug\netcoreapp2.2\Infrastructure.Repository.Cassandra.csproj.CoreCompileInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.Repository.Cassandra\obj\Debug\netcoreapp2.2\Infrastructure.Repository.Cassandra.AssemblyInfoInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.Repository.Cassandra\obj\Debug\netcoreapp2.2\Infrastructure.Repository.Cassandra.AssemblyInfo.cs
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastructure.Repository.Cassandra\obj\Debug\netcoreapp2.2\Infrastructure.Repository.Cassandra.csprojAssemblyReference.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastructure.Repository.Cassandra\bin\Debug\netcoreapp2.2\Infrastructure.Repository.Cassandra.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastructure.Repository.Cassandra\bin\Debug\netcoreapp2.2\Infrastructure.Repository.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastructure.Repository.Cassandra\bin\Debug\netcoreapp2.2\Infrastructure.Repository.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastructure.Repository.Cassandra\obj\Debug\netcoreapp2.2\Infrastructure.Repository.Cassandra.csproj.CopyComplete
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastructure.Repository.Cassandra\obj\Debug\netcoreapp2.2\Infrastructure.Repository.Cassandra.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastructure.Repository.Cassandra\obj\Debug\netcoreapp2.2\Infrastructure.Repository.Cassandra.pdb

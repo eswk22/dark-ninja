@@ -1,0 +1,25 @@
+{
+ "ServiceBus": {
+    "ConnectionString": "Endpoint=sb://esb-bus.servicebus.windows.net/;SharedAccessKeyName=ESBSend-Listen;SharedAccessKey=fJiD6yeL5jXWW7FKcdm3b8EskY8l9RYdN4p1Yn4+pX4=",
+    "Queues": [
+      {
+        "Queuename": "PowerShellScript",
+        "Executor": "",
+        "IsActive": true
+      },
+      {
+        "Queuename": "Test1",
+        "Executor": "",
+        "IsActive": true
+      }
+    ],
+    "Topics": [
+      {
+        "name": "",
+        "Executor": "",
+        "IsActive": true
+      }
+
+    ]
+  }
+}

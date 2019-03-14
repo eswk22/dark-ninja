@@ -1,0 +1,36 @@
+{
+  "ServiceBus": {
+    "Type": "RabbitMQ",
+    "Host": "",
+    "Username": "",
+    "Password": "",
+    "Port": 15638,
+    "BrokerName": "Dark_Ninja"
+  },
+  "Loglevel": {
+    "Creator": "Info",
+    "Dispatcher": "Info"
+  },
+  "Worker": {
+    "Creator": {
+      "NumberOfInstance": 2
+    },
+    "Dispatcher": {
+      "NumberOfInstance": 4
+    },
+    "Database": {
+      "Type": "Cassandra",
+      "Host": "",
+      "Username": "",
+      "Password": "",
+      "Port": 8083
+    }
+
+  },
+  "Agent": {
+
+  },
+  "Stashengine": {
+
+  }
+}

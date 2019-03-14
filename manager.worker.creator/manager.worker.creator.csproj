@@ -11,4 +11,14 @@
     <PackageReference Include="Microsoft.VisualStudio.Azure.Kubernetes.Tools.Targets" Version="1.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="events\" />
+    <Folder Include="exceptions\" />
+    <Folder Include="extensions\" />
+    <Folder Include="model\" />
+    <Folder Include="bootstrapper\" />
+    <Folder Include="persistence\" />
+    <Folder Include="repository\" />
+  </ItemGroup>
+
 </Project>

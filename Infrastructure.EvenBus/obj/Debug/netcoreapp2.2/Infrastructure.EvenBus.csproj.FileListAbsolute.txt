@@ -1,0 +1,8 @@
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.EvenBus\bin\Debug\netcoreapp2.2\Infrastructure.EvenBus.deps.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.EvenBus\bin\Debug\netcoreapp2.2\Infrastructure.EvenBus.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.EvenBus\bin\Debug\netcoreapp2.2\Infrastructure.EvenBus.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.EvenBus\obj\Debug\netcoreapp2.2\Infrastructure.EvenBus.csproj.CoreCompileInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.EvenBus\obj\Debug\netcoreapp2.2\Infrastructure.EvenBus.AssemblyInfoInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.EvenBus\obj\Debug\netcoreapp2.2\Infrastructure.EvenBus.AssemblyInfo.cs
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.EvenBus\obj\Debug\netcoreapp2.2\Infrastructure.EvenBus.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\dark-ninja\Infrastructure.EvenBus\obj\Debug\netcoreapp2.2\Infrastructure.EvenBus.pdb

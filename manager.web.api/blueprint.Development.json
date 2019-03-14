@@ -1,0 +1,40 @@
+{
+  "Settings": {
+    "ServiceBus": {
+      "Type": "RabbitMQ",
+      "Host": "localhost",
+      "Username": "guest",
+      "Password": "guest",
+      "Port": 5672,
+      "RetryCount": 5,
+      "BrokerName": "Dark_Ninja"
+    },
+    "Loglevel": {
+      "Creator": "Info",
+      "Dispatcher": "Info"
+    },
+    "Worker": {
+      "Creator": {
+        "NumberOfInstance": 2
+      },
+      "Dispatcher": {
+        "NumberOfInstance": 4
+      },
+      "Database": {
+        "Type": "Cassandra",
+        "Host": "127.0.0.1",
+        "Username": "",
+        "Password": "",
+        "Port": 9042,
+        "RetryCount": 5
+      }
+
+    },
+    "Agent": {
+
+    },
+    "Stashengine": {
+
+    }
+  }
+}
