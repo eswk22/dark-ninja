@@ -853,9 +853,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\agent\\core.agent\\Application.Agent.csproj",
+      "projectUniqueName": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\agent\\core.agent\\core.agent.csproj",
       "projectName": "Agent",
-      "projectPath": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\agent\\core.agent\\Application.Agent.csproj",
+      "projectPath": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\agent\\core.agent\\core.agent.csproj",
       "packagesPath": "C:\\Users\\ekriesw\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\agent\\core.agent\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,17 @@
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.worker.distributor\bin\Debug\netcoreapp2.2\manager.worker.dispatcher.deps.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.worker.distributor\bin\Debug\netcoreapp2.2\manager.worker.dispatcher.runtimeconfig.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.worker.distributor\bin\Debug\netcoreapp2.2\manager.worker.dispatcher.runtimeconfig.dev.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.worker.distributor\bin\Debug\netcoreapp2.2\manager.worker.dispatcher.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.worker.distributor\bin\Debug\netcoreapp2.2\manager.worker.dispatcher.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.worker.distributor\obj\Debug\netcoreapp2.2\manager.worker.dispatcher.csprojAssemblyReference.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.worker.distributor\obj\Debug\netcoreapp2.2\manager.worker.dispatcher.csproj.CoreCompileInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.worker.distributor\obj\Debug\netcoreapp2.2\manager.worker.dispatcher.RazorAssemblyInfo.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.worker.distributor\obj\Debug\netcoreapp2.2\manager.worker.dispatcher.RazorAssemblyInfo.cs
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.worker.distributor\obj\Debug\netcoreapp2.2\manager.worker.dispatcher.AssemblyInfoInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.worker.distributor\obj\Debug\netcoreapp2.2\manager.worker.dispatcher.AssemblyInfo.cs
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.worker.distributor\obj\Debug\netcoreapp2.2\manager.worker.dispatcher.RazorTargetAssemblyInfo.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.worker.distributor\obj\Debug\netcoreapp2.2\manager.worker.dispatcher.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.worker.distributor\obj\Debug\netcoreapp2.2\manager.worker.dispatcher.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.worker.distributor\bin\Debug\netcoreapp2.2\Infrastructure.Repository.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.worker.distributor\bin\Debug\netcoreapp2.2\Infrastructure.Repository.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\manager.worker.distributor\obj\Debug\netcoreapp2.2\manager.worker.dispatcher.csproj.CopyComplete

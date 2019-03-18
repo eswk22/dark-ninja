@@ -1,9 +1,9 @@
 ﻿using System.Linq;
 using System.Threading.Tasks;
-using Infrastructure.DDD;
+using Infrastructure.Utility.DDD;
 using MediatR;
 
-namespace Infrastructure.Extensions
+namespace Infrastructure.Utility.Extensions
 {
     public static class MediatorExtensions
     {

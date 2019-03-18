@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace Infrastructure.DDD
+namespace Infrastructure.Utility.DDD
 {
     public abstract class ValueObject
     {

@@ -1,0 +1,50 @@
+{
+  "Features": {
+    "Epics": [
+      {
+        "Epic": {
+          "Name": "",
+          "Active": true,
+          "Stories": [
+            {
+              "Story": {
+                "Name": "",
+                "Active": true,
+                "Functions": [
+                  {
+                    "Function": {
+                      "Name": "",
+                      "Active": true
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Epic": {
+          "Name": "",
+          "Active": true,
+          "Stories": [
+            {
+              "Story": {
+                "Name": "",
+                "Active": true,
+                "Functions": [
+                  {
+                    "Function": {
+                      "Name": "",
+                      "Active": true
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

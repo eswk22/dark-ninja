@@ -1,0 +1,6 @@
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Inftsatructure.Repository.TSDB\obj\Debug\netcoreapp2.2\Infrastructure.Repository.TSDB.csprojAssemblyReference.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Inftsatructure.Repository.TSDB\obj\Debug\netcoreapp2.2\Infrastructure.Repository.TSDB.csproj.CoreCompileInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Inftsatructure.Repository.TSDB\obj\Debug\netcoreapp2.2\Infrastructure.Repository.TSDB.AssemblyInfoInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Inftsatructure.Repository.TSDB\obj\Debug\netcoreapp2.2\Infrastructure.Repository.TSDB.AssemblyInfo.cs
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Inftsatructure.Repository.TSDB\bin\Debug\netcoreapp2.2\Infrastructure.Repository.TSDB.deps.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Inftsatructure.Repository.TSDB\bin\Debug\netcoreapp2.2\Infrastructure.Repository.TSDB.dll

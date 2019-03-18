@@ -13,13 +13,13 @@ namespace manager.web.api.manager
 {
     public class JobManager :IJobManager
     {
-        private readonly ILogger<JobRepository> _logger;
+        private readonly ILogger<JobManager> _logger;
         private readonly IJobRepository _jobRepository;
         private readonly IEventBus _eventBus;
 
         public JobManager(IJobRepository jobRepository, ILoggerFactory loggerFactory, IEventBus eventBus)
         {
-            _logger = loggerFactory.CreateLogger<JobRepository>();
+            _logger = loggerFactory.CreateLogger<JobManager>();
             _jobRepository = jobRepository;
             _eventBus = eventBus;
         }

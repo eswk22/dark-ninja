@@ -1,0 +1,11 @@
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastucture.Common\obj\Debug\netcoreapp2.2\Infrastucture.Utility.csproj.CoreCompileInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastucture.Common\obj\Debug\netcoreapp2.2\Infrastucture.Utility.AssemblyInfoInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastucture.Common\obj\Debug\netcoreapp2.2\Infrastucture.Utility.AssemblyInfo.cs
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastucture.Common\bin\Debug\netcoreapp2.2\Infrastucture.Utility.deps.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastucture.Common\bin\Debug\netcoreapp2.2\Infrastucture.Utility.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastucture.Common\bin\Debug\netcoreapp2.2\Infrastucture.Utility.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastucture.Common\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastucture.Common\obj\Debug\netcoreapp2.2\Infrastucture.Utility.csproj.CopyComplete
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastucture.Common\obj\Debug\netcoreapp2.2\Infrastucture.Utility.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastucture.Common\obj\Debug\netcoreapp2.2\Infrastucture.Utility.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastucture.Common\obj\Debug\netcoreapp2.2\Infrastucture.Utility.csprojAssemblyReference.cache

@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.4.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Kubernetes.Tools.Targets" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="integrationevents\eventhandling\" />
+    <Folder Include="repository\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Infrastructure.EventBus.RabbitMQ\Infrastructure.EventBus.RabbitMQ.csproj" />
+    <ProjectReference Include="..\Infrastructure.Repository.Cassandra\Infrastructure.Repository.Cassandra.csproj" />
+    <ProjectReference Include="..\Infrastructure.Settings\Infrastructure.Settings.csproj" />
+    <ProjectReference Include="..\Infrastucture.Common\Infrastucture.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

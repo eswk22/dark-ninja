@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.2": {
+      "CassandraCSharpDriver/3.8.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Logging": "1.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "1.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Cassandra.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Cassandra.dll": {}
+        }
+      },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
         "type": "package",
         "dependencies": {
@@ -4455,10 +4468,40 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "Infrastructure.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "CassandraCSharpDriver": "3.8.0"
+        },
+        "compile": {
+          "bin/placeholder/Infrastructure.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infrastructure.Repository.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "CassandraCSharpDriver/3.8.0": {
+      "sha512": "xS2mkkwyOp5kcxLhwb+E4UfCF5YJuwHliYYyynaqbSqBjxhgLX3ej/5R0mBiWWHaN6lNuQQY/9LYoO2MowGFoQ==",
+      "type": "package",
+      "path": "cassandracsharpdriver/3.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "cassandracsharpdriver.3.8.0.nupkg.sha512",
+        "cassandracsharpdriver.nuspec",
+        "lib/net45/Cassandra.dll",
+        "lib/net45/Cassandra.xml",
+        "lib/netstandard1.5/Cassandra.dll",
+        "lib/netstandard1.5/Cassandra.xml",
+        "lib/netstandard2.0/Cassandra.dll",
+        "lib/netstandard2.0/Cassandra.xml"
+      ]
+    },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "sha512": "91JMnE9zdIDphG00qgRvl8ZwKEjqAbNlJdfXUoMiIWPfpYyH7fyCsTSj6/aynRdw/Qr/K70xC7QC6MOJ1vFBJQ==",
       "type": "package",
@@ -12133,10 +12176,16 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "Infrastructure.Repository/1.0.0": {
+      "type": "project",
+      "path": "../Infrastructure.Repository/Infrastructure.Repository.csproj",
+      "msbuildProject": "../Infrastructure.Repository/Infrastructure.Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "Infrastructure.Repository >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
@@ -12150,11 +12199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\dark-ninja\\manager.worker.distributor\\manager.worker.distributor.csproj",
-      "projectName": "manager.worker.distributor",
-      "projectPath": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\dark-ninja\\manager.worker.distributor\\manager.worker.distributor.csproj",
+      "projectUniqueName": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\manager.worker.distributor\\manager.worker.dispatcher.csproj",
+      "projectName": "manager.worker.dispatcher",
+      "projectPath": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\manager.worker.distributor\\manager.worker.dispatcher.csproj",
       "packagesPath": "C:\\Users\\ekriesw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\dark-ninja\\manager.worker.distributor\\obj\\",
+      "outputPath": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\manager.worker.distributor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12174,7 +12223,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\Infrastructure.Repository\\Infrastructure.Repository.csproj": {
+              "projectPath": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\Infrastructure.Repository\\Infrastructure.Repository.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

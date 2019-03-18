@@ -204,9 +204,9 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\core.agent\Application.Agent.csproj">
+    <ProjectReference Include="..\core.agent\core.agent.csproj">
       <Project>{25b81c13-208f-4998-a6b0-c7e569058f9e}</Project>
-      <Name>Application.Agent</Name>
+      <Name>core.agent</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

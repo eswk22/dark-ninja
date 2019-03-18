@@ -4422,8 +4422,8 @@
     },
     "Agent/1.0.0": {
       "type": "project",
-      "path": "../../core.agent/Application.Agent.csproj",
-      "msbuildProject": "../../core.agent/Application.Agent.csproj"
+      "path": "../../core.agent/core.agent.csproj",
+      "msbuildProject": "../../core.agent/core.agent.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4477,8 +4477,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\agent\\core.agent\\Application.Agent.csproj": {
-              "projectPath": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\agent\\core.agent\\Application.Agent.csproj"
+            "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\agent\\core.agent\\core.agent.csproj": {
+              "projectPath": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\agent\\core.agent\\core.agent.csproj"
             }
           }
         }

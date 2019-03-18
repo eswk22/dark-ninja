@@ -715,11 +715,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\dark-ninja\\Infrastucture.Common\\Infrastucture.Common.csproj",
-      "projectName": "Infrastucture.Common",
-      "projectPath": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\dark-ninja\\Infrastucture.Common\\Infrastucture.Common.csproj",
+      "projectUniqueName": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\Infrastucture.Common\\Infrastucture.Utility.csproj",
+      "projectName": "Infrastucture.Utility",
+      "projectPath": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\Infrastucture.Common\\Infrastucture.Utility.csproj",
       "packagesPath": "C:\\Users\\ekriesw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\dark-ninja\\Infrastucture.Common\\obj\\",
+      "outputPath": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\Infrastucture.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -94,7 +94,6 @@ namespace manager.web.api
                     .AllowAnyHeader()
                     .AllowCredentials());
             });
-            services.AddSingleton<IConfiguration>(Configuration);
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddTransient<IJobRepository, JobRepository>();
             services.AddTransient<IIdentityService, IdentityService>();

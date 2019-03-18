@@ -216,19 +216,6 @@
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
-      },
-      "KairosDbClient/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
-        "dependencies": {
-          "Newtonsoft.Json": "12.0.1"
-        },
-        "compile": {
-          "bin/placeholder/KairosDbClient.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/KairosDbClient.dll": {}
-        }
       }
     }
   },
@@ -739,17 +726,12 @@
         "newtonsoft.json.12.0.1.nupkg.sha512",
         "newtonsoft.json.nuspec"
       ]
-    },
-    "KairosDbClient/1.0.0": {
-      "type": "project",
-      "path": "../KairosDbClient/KairosDbClient.csproj",
-      "msbuildProject": "../KairosDbClient/KairosDbClient.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "KairosDbClient >= 1.0.0",
-      "Microsoft.NETCore.App >= 2.2.0"
+      "Microsoft.NETCore.App >= 2.2.0",
+      "Newtonsoft.Json >= 12.0.1"
     ]
   },
   "packageFolders": {
@@ -759,9 +741,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\Inftsatructure.Repository.TSDB\\Inftsatructure.Repository.TSDB.csproj",
-      "projectName": "Inftsatructure.Repository.TSDB",
-      "projectPath": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\Inftsatructure.Repository.TSDB\\Inftsatructure.Repository.TSDB.csproj",
+      "projectUniqueName": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\Inftsatructure.Repository.TSDB\\Infrastructure.TSDB.csproj",
+      "projectName": "Infrastructure.TSDB",
+      "projectPath": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\Inftsatructure.Repository.TSDB\\Infrastructure.TSDB.csproj",
       "packagesPath": "C:\\Users\\ekriesw\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\Inftsatructure.Repository.TSDB\\obj\\",
       "projectStyle": "PackageReference",
@@ -783,11 +765,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {
-            "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\KairosDbClient\\KairosDbClient.csproj": {
-              "projectPath": "C:\\Users\\ekriesw\\OneDrive - Ericsson AB\\Projects\\Ericsson\\Monitoring App\\Application\\Dark-Ninja\\KairosDbClient\\KairosDbClient.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -804,6 +782,10 @@
             "target": "Package",
             "version": "[2.2.0, )",
             "autoReferenced": true
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.1, )"
           }
         },
         "imports": [

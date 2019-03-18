@@ -1,9 +1,0 @@
-C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\KairosDbClient\obj\Debug\netcoreapp2.2\KairosDbClient.csproj.CoreCompileInputs.cache
-C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\KairosDbClient\obj\Debug\netcoreapp2.2\KairosDbClient.AssemblyInfoInputs.cache
-C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\KairosDbClient\obj\Debug\netcoreapp2.2\KairosDbClient.AssemblyInfo.cs
-C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\KairosDbClient\bin\Debug\netcoreapp2.2\KairosDbClient.deps.json
-C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\KairosDbClient\bin\Debug\netcoreapp2.2\KairosDbClient.dll
-C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\KairosDbClient\bin\Debug\netcoreapp2.2\KairosDbClient.pdb
-C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\KairosDbClient\obj\Debug\netcoreapp2.2\KairosDbClient.dll
-C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\KairosDbClient\obj\Debug\netcoreapp2.2\KairosDbClient.pdb
-C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\KairosDbClient\obj\Debug\netcoreapp2.2\KairosDbClient.csprojAssemblyReference.cache

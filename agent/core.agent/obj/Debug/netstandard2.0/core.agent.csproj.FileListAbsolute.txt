@@ -1,0 +1,8 @@
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\agent\core.agent\bin\Debug\netstandard2.0\Agent.deps.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\agent\core.agent\bin\Debug\netstandard2.0\Agent.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\agent\core.agent\bin\Debug\netstandard2.0\Agent.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\agent\core.agent\obj\Debug\netstandard2.0\core.agent.csproj.CoreCompileInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\agent\core.agent\obj\Debug\netstandard2.0\core.agent.AssemblyInfoInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\agent\core.agent\obj\Debug\netstandard2.0\core.agent.AssemblyInfo.cs
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\agent\core.agent\obj\Debug\netstandard2.0\Agent.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\agent\core.agent\obj\Debug\netstandard2.0\Agent.pdb

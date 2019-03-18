@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using MediatR;
 
-namespace Infrastructure.DDD
+namespace Infrastructure.Utility.DDD
 {
     public abstract class Entity
     {

@@ -1,4 +1,4 @@
-﻿namespace Infrastructure.DDD
+﻿namespace Infrastructure.Utility.DDD
 {
     public interface IAggregateRoot { } 
 }

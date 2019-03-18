@@ -1,0 +1,13 @@
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\metric.parser\obj\Debug\netcoreapp2.2\metric.parser.csproj.CoreCompileInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\metric.parser\obj\Debug\netcoreapp2.2\metric.parser.AssemblyInfoInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\metric.parser\obj\Debug\netcoreapp2.2\metric.parser.AssemblyInfo.cs
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\metric.parser\bin\Debug\netcoreapp2.2\metric.parser.deps.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\metric.parser\bin\Debug\netcoreapp2.2\metric.parser.runtimeconfig.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\metric.parser\bin\Debug\netcoreapp2.2\metric.parser.runtimeconfig.dev.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\metric.parser\bin\Debug\netcoreapp2.2\metric.parser.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\metric.parser\bin\Debug\netcoreapp2.2\metric.parser.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\metric.parser\obj\Debug\netcoreapp2.2\metric.parser.RazorAssemblyInfo.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\metric.parser\obj\Debug\netcoreapp2.2\metric.parser.RazorAssemblyInfo.cs
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\metric.parser\obj\Debug\netcoreapp2.2\metric.parser.RazorTargetAssemblyInfo.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\metric.parser\obj\Debug\netcoreapp2.2\metric.parser.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\metric.parser\obj\Debug\netcoreapp2.2\metric.parser.pdb
