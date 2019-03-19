@@ -1,0 +1,15 @@
+FROM microsoft/dotnet:2.2-sdk
+ARG BUILD_CONFIGURATION=Debug
+ENV ASPNETCORE_ENVIRONMENT=Development
+ENV DOTNET_USE_POLLING_FILE_WATCHER=true
+EXPOSE 80
+
+WORKDIR /src
+COPY ["application.utility.api/application.utility.api.csproj", "application.utility.api/"]
+
+RUN dotnet restore "application.utility.api/application.utility.api.csproj"
+COPY . .
+WORKDIR "/src/application.utility.api"
+RUN dotnet build --no-restore "application.utility.api.csproj" -c $BUILD_CONFIGURATION
+
+ENTRYPOINT ["dotnet", "run", "--no-build", "--no-launch-profile", "-c", "$BUILD_CONFIGURATION", "--"]

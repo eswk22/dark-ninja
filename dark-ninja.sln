@@ -96,15 +96,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "service.linux", "service.li
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure.Settings", "Infrastructure.Settings\Infrastructure.Settings.csproj", "{C087871C-CCA0-499B-8752-8584D643645D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metric.persistence", "metric.processor\metric.persistence.csproj", "{A0169CBC-3E2A-46BD-A7FC-BBD201326BD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "metric.persistence", "metric.processor\metric.persistence.csproj", "{A0169CBC-3E2A-46BD-A7FC-BBD201326BD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bigben", "bigben\bigben.csproj", "{FCCD2EF1-CDAC-4219-B388-A07F4AE40B24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bigben", "bigben\bigben.csproj", "{FCCD2EF1-CDAC-4219-B388-A07F4AE40B24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metric.parser", "metric.parser\metric.parser.csproj", "{DC18D926-1706-4AF8-A8B8-F9A156D4A281}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "metric.parser", "metric.parser\metric.parser.csproj", "{DC18D926-1706-4AF8-A8B8-F9A156D4A281}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "auth", "auth", "{E723A86A-88F6-40DF-8467-5421A76034BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "identity.api", "identity.api\identity.api.csproj", "{B9EC640F-9EF8-4A50-A101-225A539AFE88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "identity.api", "identity.api\identity.api.csproj", "{B9EC640F-9EF8-4A50-A101-225A539AFE88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "utility", "utility", "{7B56AF23-8DFB-4779-90CE-157A7636BA4D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "application.utility.api", "application.utility.api\application.utility.api.csproj", "{289A40C8-7EC4-4955-91EA-B3AFAFE0A1CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "stashengine", "stashengine", "{79665061-D1A2-4B1E-AE55-56A56C99B23C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "stashengine.web.api", "stashengine.web.api\stashengine.web.api.csproj", "{CA69B2E1-E992-4356-BF55-3AB10D9B881A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mongodb", "mongodb", "{FA74BFA2-AD3D-4CC1-911B-5E5F26C05E7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Repository.MongoDB", "Infrsstructure.Repository.MongoDB\Infrastructure.Repository.MongoDB.csproj", "{B488AB38-F15E-41E0-9B8B-5DE99FAC2902}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -184,6 +196,18 @@ Global
 		{B9EC640F-9EF8-4A50-A101-225A539AFE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9EC640F-9EF8-4A50-A101-225A539AFE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9EC640F-9EF8-4A50-A101-225A539AFE88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{289A40C8-7EC4-4955-91EA-B3AFAFE0A1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289A40C8-7EC4-4955-91EA-B3AFAFE0A1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{289A40C8-7EC4-4955-91EA-B3AFAFE0A1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{289A40C8-7EC4-4955-91EA-B3AFAFE0A1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA69B2E1-E992-4356-BF55-3AB10D9B881A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA69B2E1-E992-4356-BF55-3AB10D9B881A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA69B2E1-E992-4356-BF55-3AB10D9B881A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA69B2E1-E992-4356-BF55-3AB10D9B881A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B488AB38-F15E-41E0-9B8B-5DE99FAC2902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B488AB38-F15E-41E0-9B8B-5DE99FAC2902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B488AB38-F15E-41E0-9B8B-5DE99FAC2902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B488AB38-F15E-41E0-9B8B-5DE99FAC2902}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -223,6 +247,12 @@ Global
 		{DC18D926-1706-4AF8-A8B8-F9A156D4A281} = {DFAA4A42-7C9F-466D-AC76-41FCD5C61715}
 		{E723A86A-88F6-40DF-8467-5421A76034BF} = {3C4F5D14-4CA2-47D5-B148-E4F093BF3FA7}
 		{B9EC640F-9EF8-4A50-A101-225A539AFE88} = {E723A86A-88F6-40DF-8467-5421A76034BF}
+		{7B56AF23-8DFB-4779-90CE-157A7636BA4D} = {3C4F5D14-4CA2-47D5-B148-E4F093BF3FA7}
+		{289A40C8-7EC4-4955-91EA-B3AFAFE0A1CE} = {7B56AF23-8DFB-4779-90CE-157A7636BA4D}
+		{79665061-D1A2-4B1E-AE55-56A56C99B23C} = {3C4F5D14-4CA2-47D5-B148-E4F093BF3FA7}
+		{CA69B2E1-E992-4356-BF55-3AB10D9B881A} = {79665061-D1A2-4B1E-AE55-56A56C99B23C}
+		{FA74BFA2-AD3D-4CC1-911B-5E5F26C05E7F} = {D3954315-1BA2-4372-B62D-4F491F7E017C}
+		{B488AB38-F15E-41E0-9B8B-5DE99FAC2902} = {FA74BFA2-AD3D-4CC1-911B-5E5F26C05E7F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAB8A2DA-CA94-4106-B870-2E56F4181D56}

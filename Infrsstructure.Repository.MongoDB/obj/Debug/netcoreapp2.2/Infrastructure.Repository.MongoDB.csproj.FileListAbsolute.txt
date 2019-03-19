@@ -1,0 +1,12 @@
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrsstructure.Repository.MongoDB\bin\Debug\netcoreapp2.2\Infrastructure.Repository.MongoDB.deps.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrsstructure.Repository.MongoDB\bin\Debug\netcoreapp2.2\Infrastructure.Repository.MongoDB.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrsstructure.Repository.MongoDB\obj\Debug\netcoreapp2.2\Infrastructure.Repository.MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrsstructure.Repository.MongoDB\obj\Debug\netcoreapp2.2\Infrastructure.Repository.MongoDB.AssemblyInfoInputs.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrsstructure.Repository.MongoDB\obj\Debug\netcoreapp2.2\Infrastructure.Repository.MongoDB.AssemblyInfo.cs
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrsstructure.Repository.MongoDB\obj\Debug\netcoreapp2.2\Infrastructure.Repository.MongoDB.csprojAssemblyReference.cache
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrsstructure.Repository.MongoDB\bin\Debug\netcoreapp2.2\Infrastructure.Repository.MongoDB.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrsstructure.Repository.MongoDB\bin\Debug\netcoreapp2.2\MongoDB.Driver.Legacy.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrsstructure.Repository.MongoDB\bin\Debug\netcoreapp2.2\MongoDB.Driver.Legacy.xml
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrsstructure.Repository.MongoDB\obj\Debug\netcoreapp2.2\Infrastructure.Repository.MongoDB.csproj.CopyComplete
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrsstructure.Repository.MongoDB\obj\Debug\netcoreapp2.2\Infrastructure.Repository.MongoDB.dll
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrsstructure.Repository.MongoDB\obj\Debug\netcoreapp2.2\Infrastructure.Repository.MongoDB.pdb

@@ -40,7 +40,14 @@ namespace Infrastructure.TSDB
             this.iPAddresses = iPAddresses;
             this.port = port;
 
-            _baseUrl = $"htttp://{iPAddresses[0]}:" + port.ToString();
+            _baseUrl = $"http://{iPAddresses[0]}:" + port.ToString();
+        }
+
+        public async Task AddMetricsAsync(Metric metric)
+        {
+            IList<Metric> metrics = new List<Metric>();
+            metrics.Add(metric);
+            await this.AddMetricsAsync(metrics);
         }
 
         public async Task AddMetricsAsync(IEnumerable<Metric> metrics)

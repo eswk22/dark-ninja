@@ -32,5 +32,11 @@ namespace metric.processor.model
         {
 
         }
+
+        public DataPoint(long timestamp, object value)
+        {
+            this.Timestamp = timestamp;
+            this.Value = value;
+        }
     }
 }

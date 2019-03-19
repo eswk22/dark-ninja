@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="2.8.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MongoDB.Driver.Legacy">
+      <HintPath>..\..\..\..\..\..\..\Downloads\Dream-master\Dream-master\Application.Datalayer\bin\Debug\MongoDB.Driver.Legacy.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+  </ItemGroup>
+
+</Project>

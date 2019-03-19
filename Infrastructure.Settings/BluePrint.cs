@@ -23,6 +23,8 @@ namespace Infrastructure.Settings
 
         [JsonProperty("Stashengine")]
         public Agent Stashengine { get; set; }
+        [JsonProperty("Common")]
+        public Common Common { get; set; }
     }
 
     public partial class Agent
@@ -36,6 +38,12 @@ namespace Infrastructure.Settings
 
         [JsonProperty("Dispatcher")]
         public string Dispatcher { get; set; }
+    }
+
+    public partial class Common
+    {
+        [JsonProperty("UploadPath")]
+        public string UploadPath { get; set; }
     }
 
     public partial class ServiceBus

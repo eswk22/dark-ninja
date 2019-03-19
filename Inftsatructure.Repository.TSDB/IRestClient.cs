@@ -6,6 +6,7 @@ namespace Infrastructure.TSDB
 {
     public interface IRestClient
     {
+        Task AddMetricsAsync(Metric metric);
         Task AddMetricsAsync(IEnumerable<Metric> metrics);
         Task<QueryResponse> DeleteMetricAsync(string metric);
         Task<QueryResponse> DeleteMetricsAsync(QueryBuilder query);

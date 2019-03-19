@@ -1,5 +1,6 @@
 ﻿using Infrastructure.TSDB;
 using Infrastructure.Utility.Translators;
+using metric.persistence.model;
 using metric.processor.manager;
 using metric.processor.model;
 using Microsoft.AspNetCore.Builder;
@@ -56,6 +57,8 @@ namespace metric.processor.bootstrap
             var translatorService = app.ApplicationServices.GetRequiredService<IEntityTranslatorService>();
 
             translatorService.RegisterEntityTranslator(new MetricTranslator());
+            translatorService.RegisterEntityTranslator(new DataPointTranslator());
+            translatorService.RegisterEntityTranslator(new MetricModelTranslator(translatorService));
 
         }
     }

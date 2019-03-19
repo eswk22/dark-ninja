@@ -33,6 +33,11 @@
     },
     "Stashengine": {
 
+    },
+    "Common": {
+      "UploadPath": "C:\\Users\\ekriesw\\Documents"
     }
+
+
   }
 }

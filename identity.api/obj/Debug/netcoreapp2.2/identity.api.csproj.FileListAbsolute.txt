@@ -6,9 +6,9 @@ C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Applica
 C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\identity.api\bin\Debug\netcoreapp2.2\identity.api.runtimeconfig.dev.json
 C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\identity.api\bin\Debug\netcoreapp2.2\identity.api.dll
 C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\identity.api\bin\Debug\netcoreapp2.2\identity.api.pdb
-C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\identity.api\obj\Debug\netcoreapp2.2\identity.api.csprojAssemblyReference.cache
 C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\identity.api\obj\Debug\netcoreapp2.2\identity.api.RazorAssemblyInfo.cache
 C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\identity.api\obj\Debug\netcoreapp2.2\identity.api.RazorAssemblyInfo.cs
 C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\identity.api\obj\Debug\netcoreapp2.2\identity.api.RazorTargetAssemblyInfo.cache
 C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\identity.api\obj\Debug\netcoreapp2.2\identity.api.dll
 C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\identity.api\obj\Debug\netcoreapp2.2\identity.api.pdb
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\identity.api\obj\Debug\netcoreapp2.2\identity.api.csprojAssemblyReference.cache

@@ -7,3 +7,4 @@ C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Applica
 C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastructure.Settings\obj\Debug\netcoreapp2.2\Infrastructure.Settings.dll
 C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastructure.Settings\obj\Debug\netcoreapp2.2\Infrastructure.Settings.pdb
 C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastructure.Settings\bin\Debug\netcoreapp2.2\features.json
+C:\Users\ekriesw\OneDrive - Ericsson AB\Projects\Ericsson\Monitoring App\Application\Dark-Ninja\Infrastructure.Settings\obj\Debug\netcoreapp2.2\Infrastructure.Settings.csprojAssemblyReference.cache

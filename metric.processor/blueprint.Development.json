@@ -37,7 +37,7 @@
       "tsdb": {
         "Type": "Kairos",
         "IPAddresses": "127.0.0.1",
-        "Port": 9062
+        "Port": 8083
       }
     }
   }
